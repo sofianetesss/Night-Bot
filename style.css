@@ -1,0 +1,40 @@
+* {
+    background-color:gray;
+}
+
+.msg1 {
+    text-align: center;
+    color: black;
+    font-size: 45pt;
+    transition: color 1s;
+    
+}
+
+.msg1:hover {
+    color: red;
+}
+
+
+
+
+
+image {
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    width: 650px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
