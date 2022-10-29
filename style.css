@@ -4,27 +4,6 @@
 
 
 
-.version {
-    color: black;
-    font-size: 26pt;
-    transition: 1s;
-    height: 200px;
-}
-.version:hover {
-    color: darkblue;
-}
-
-.INFO {
-    color: black;
-    font-size: 48pt;
-    text-align: center;
-    transition: 1s;
-}
-
-.INFO:hover {
-    color: blue;
-}
-
 .msg1 {
     text-align: center;
     color: black;
