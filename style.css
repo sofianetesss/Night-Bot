@@ -2,6 +2,10 @@
     background-color:gray;
 }
 
+
+
+
+
 .msg1 {
     text-align: center;
     color: black;
@@ -15,10 +19,6 @@
 }
 
 
-.msg2 {
-    justify-content: center;
-    color: red;
-}
 
 
 image {
@@ -29,11 +29,6 @@ image {
   img {
     width: 650px;
   }
-
-
-
-
-
 
 
 
