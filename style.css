@@ -5,7 +5,6 @@
 
 
 .version {
-    font-style: oblique;
     text-align: center;
     color: black;
     font-size: 26pt;
@@ -17,7 +16,6 @@
 }
 
 .INFO {
-    font-style:inherit;
     color: black;
     font-size: 48pt;
     text-align: center;
@@ -29,7 +27,6 @@
 }
 
 .msg1 {
-    font-style:inherit;
     text-align: center;
     color: black;
     font-size: 45pt;
