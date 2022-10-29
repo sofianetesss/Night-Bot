@@ -4,9 +4,32 @@
 
 
 
+.version {
+    font-style: oblique;
+    text-align: center;
+    color: black;
+    font-size: 26pt;
+    transition: 1s;
+    height: 200px;
+}
+.version:hover {
+    color: darkblue;
+}
 
+.INFO {
+    font-style:inherit;
+    color: black;
+    font-size: 48pt;
+    text-align: center;
+    transition: 1s;
+}
+
+.INFO:hover {
+    color: blue;
+}
 
 .msg1 {
+    font-style:inherit;
     text-align: center;
     color: black;
     font-size: 45pt;
@@ -15,24 +38,5 @@
 }
 
 .msg1:hover {
-    color: red;
+    color: yellow;
 }
-
-
-
-
-image {
-    display: flex;
-    justify-content: center;
-  }
-  
-  img {
-    width: 650px;
-  }
-
-
-
-
-
-
-
