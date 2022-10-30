@@ -4,14 +4,26 @@
 
 
 
+
 .msg1 {
+    font-size: 25pt;
     text-align: center;
-    color: black;
-    font-size: 45pt;
-    transition: color 1s;
-    
+    transition: 1s;
 }
 
 .msg1:hover {
     color: yellow;
 }
+
+
+.welcome {
+    color: black;
+    text-align: center;
+    font-size: 38pt;
+    transition: 1s;   
+}
+
+.welcome:hover {
+    color: yellow;
+}
+
