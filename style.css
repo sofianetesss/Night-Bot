@@ -4,22 +4,6 @@
 
 
 
-.Tcommand {
-    text-align: center;
-    color: blue;
-    font-size: 30pt;
-}
-
-.command {
-    color: white;
-    font-size: 20pt;
-    transition: 1s;
-}
-.command:hover {
-    color: blue;
-}
-
-
 
 
 
