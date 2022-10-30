@@ -37,13 +37,9 @@ body {
 
 .welcome {
     font-style: initial;
-    color: black;
+    color: yellow;
     text-align: center;
-    font-size: 38pt;
-    transition: 1s;   
+    font-size: 38pt; 
 }
 
-.welcome:hover {
-    color: yellow;
-}
 
