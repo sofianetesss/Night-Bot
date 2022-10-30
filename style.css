@@ -1,23 +1,40 @@
 * {
-    background-color:gray;
+    background-color:#262626;
 }
 
 
+.upm {
+    font-size: 30px;
+    color: white;
+}
 
+
+.up {
+    color: white;
+    font-style: italic;
+    font-size: 45pt;
+    text-align: center;
+    transition: 2s;
+}
+
+.up:hover {
+    color: blue;
+}
 
 .msg1 {
+    color: white;
     font-size: 25pt;
     text-align: center;
     transition: 1s;
 }
 
 .msg1:hover {
-    color: yellow;
+    color: orange;
 }
 
 
 .welcome {
-    color: black;
+    color: white;
     text-align: center;
     font-size: 38pt;
     transition: 1s;   
