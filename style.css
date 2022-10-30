@@ -1,29 +1,18 @@
-* {
-    background-color:#262626;
+body {
+    height: 100vh;
+    background-image: linear-gradient(to left, #ffd89b, #19547b);
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 .upm {
     font-size: 30px;
-    color: white;
+    color: black;
 }
 
 
 .up {
-    color: white;
+    color: black;
     font-style: italic;
     font-size: 45pt;
     text-align: center;
@@ -35,7 +24,7 @@
 }
 
 .msg1 {
-    color: white;
+    color: black;
     font-size: 25pt;
     text-align: center;
     transition: 1s;
@@ -48,7 +37,7 @@
 
 .welcome {
     font-style: initial;
-    color: white;
+    color: black;
     text-align: center;
     font-size: 38pt;
     transition: 1s;   
