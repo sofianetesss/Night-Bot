@@ -1,13 +1,21 @@
 body {
     height: 100vh;
-    background-image: linear-gradient(to left, #ffd89b, #19547b);
+    background-image: linear-gradient(to right, #000cff, #3700c2);
 }
 
 
 
-.upm {
+.up1 {
+    font-size: 34px;
+    color: yellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.up2 {
     font-size: 30px;
     color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -17,29 +25,28 @@ body {
     font-size: 45pt;
     text-align: center;
     transition: 2s;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-.up:hover {
-    color: blue;
-}
+
 
 .msg1 {
-    color: black;
+    color: orange;
     font-size: 25pt;
     text-align: center;
     transition: 1s;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-.msg1:hover {
-    color: orange;
-}
+
 
 
 .welcome {
     font-style: initial;
     color: yellow;
     text-align: center;
-    font-size: 38pt; 
+    font-size: 38pt;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 
