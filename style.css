@@ -1,8 +1,7 @@
 body {
     height: 100vh;
-    background-image: linear-gradient(to right, #000cff, #3700c2);
+    background-image: linear-gradient(to left, black, blue);
 }
-
 
 
 .up1 {
