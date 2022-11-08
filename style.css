@@ -1,51 +1,36 @@
 body {
-    height: 100vh;
-    background-image: linear-gradient(to left, white, blue);
+  background-color: #222;
+  color: white;
+  font-family:sans-serif;
 }
-
-
-.up1 {
-    font-size: 34px;
-    color: yellow;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
-
-
-.up2 {
-    font-size: 30px;
-    color: black;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-
-.up {
-    color: black;
-    font-style: italic;
-    font-size: 45pt;
-    text-align: center;
-    transition: 2s;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
-
-
-
-.msg1 {
-    color: orange;
-    font-size: 25pt;
-    text-align: center;
-    transition: 1s;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
-
-
-
 
 .welcome {
-    font-style: initial;
-    color: yellow;
-    text-align: center;
-    font-size: 38pt;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  text-align: center;
+  transition: 1s;
+  margin: 25px;
+}
+
+.welcome:hover {
+  color: blue;
 }
 
 
+.texte1 {
+  color: blue;
+}
+
+.last {
+  text-align: center;
+}
+
+
+.new {
+  text-align: center;
+}
+
+
+.point {
+  margin: 17px;
+  font-size: 20px;
+  color: #a200ff;
+}
